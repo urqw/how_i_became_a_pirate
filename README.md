@@ -4,7 +4,7 @@ Text-based game "How I Became a Pirate" (Russian: "Как я стал пират
 
 The game is in Russian and developed for [UrqW](https://github.com/urqw/UrqW) text-based game engine.
 
-This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/#how_i_became_a_pirate).
+This repository contains the source code and other resources of the game. The game is available for launch in the [UrqW engine online catalog](https://urqw.github.io/UrqW/?id=how_i_became_a_pirate).
 
 The game was first published on November 16, 2015.
 
